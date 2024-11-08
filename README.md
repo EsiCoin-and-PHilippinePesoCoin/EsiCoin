@@ -1,79 +1,60 @@
-# EsiCoin (EIC)
+# EsiCoin - Fast, Secure, Efficient Cryptocurrency
 
-EsiCoin (EIC) is a fast, secure, and low-fee cryptocurrency designed for everyday use, investment, and as a staking/mining option. Built with scalability and security in mind, EsiCoin aims to provide a smooth and efficient blockchain experience for its users. The EsiCoin ecosystem also integrates NFTs, stablecoins, and smart contract features to provide a fully-fledged platform for digital assets.
+## Overview
+EsiCoin is a cryptocurrency designed to address key issues in the blockchain ecosystem—slow transaction speeds, high fees, and security risks. With a focus on scalability and security, EsiCoin aims to deliver fast, low-cost transactions while maintaining high-level protection for users.
+
+EsiCoin will focus initially on Asia, particularly the Philippines, with plans for global expansion. It is targeted at individual users, businesses, and crypto enthusiasts, offering solutions for everyday transactions and cross-border payments.
 
 ## Features
+- **Transaction Speed**: EsiCoin ensures transaction completion within 1-5 minutes, regardless of network congestion.
+- **Low Transaction Fees**: EsiCoin is built to keep transaction fees low while providing high throughput.
+- **High Security**: Implementing robust security measures including encryption, KYC, and AML compliance to protect user data and funds.
+- **Custom Blockchain Architecture**: EsiCoin will utilize a custom blockchain architecture (EIC-01) and hybrid consensus mechanism (PoW, PoS, DPoS) to ensure scalability and efficiency.
 
-- **Core Structure**:
-  - **Payment Mode**: EsiCoin serves as a payment method for goods and services.
-  - **Investment Option**: Users can invest in EsiCoin with potential returns through staking and mining.
-  - **Staking/Mining**: EsiCoin supports staking and mining with a fixed supply cap of 30 million coins for mining.
-  - **Unique Selling Points**: Speed, low transaction fees, and high security.
+## Tokenomics
+EsiCoin's tokenomics are designed to ensure a sustainable and fair ecosystem:
+- **Fixed Supply Caps** for various purposes:
+  - Development: 5 million EIC
+  - Insurance: 5 million EIC
+  - Community Growth: 5 million EIC
+  - Referral Program: 10 million EIC
+- **Initial Circulating Supply**: 7 million EIC
+- **Inflationary Supply**: Minted on demand when users buy EsiCoin with fiat.
+- **Mining Supply Cap**: 20 million EIC available for mining.
 
-- **Transaction Mechanics**:
-  - **Transaction Speed**: 5-10 minutes for transaction confirmation.
-  - **Transaction Fees**:
-    - Fixed Fee: 10% fee for purchasing EsiCoin with fiat currency.
-    - Dynamic Fee: A base fee of 0.0000000012, adjusted based on transaction levels.
-    - **No Fees**: Internal transfers are fee-free.
+## Use Cases
+EsiCoin will serve a wide range of use cases:
+- **Everyday Transactions**: With its stablecoin, EsiPeso (EIP PHPT), EsiCoin will facilitate fast and low-cost payments for products and services.
+- **Peer-to-Peer Transfers**: Within the ecosystem, peer-to-peer transactions will be faster and more efficient, even under high transaction volumes.
+- **Cross-Border Payments**: EsiCoin will provide solutions for remittances and international transactions, ensuring quick transfers with minimal fees.
 
-- **Privacy and Security**:
-  - Enhanced encryption and access control for private keys and transaction details.
-  - Third-party auditing to ensure transparency and security of operations.
-
-- **NFT Integration**:
-  - Ability to create and trade NFTs with flexible royalty structures.
-  - Supports importing and transferring NFTs from other networks with associated fees.
-  
-- **Stablecoin Partnerships**:
-  - Stablecoins minted on demand for ecosystem use, with no fees for transfers.
-  - Revenue sharing with partners on remittance fees.
-
-- **Future Plans and Expansion**:
-  - Geographic expansion focus on Asia, especially the Philippines.
-  - Comprehensive user education on wallet setup, tax implications, and transfers.
-  - Ongoing third-party audits to ensure platform transparency and security.
-  - Establishing transparent partnership contracts with financial institutions.
-
-- **Post-Launch Features**:
-  - Ecosystem growth to attract more users and build partnerships.
-  - Staking and governance options for EsiCoin holders.
-  - Integration of smart contracts to support decentralized applications (DApps).
+## Security
+Security is paramount for EsiCoin:
+- **Encryption**: All user data, including personal and transaction details, will be encrypted to ensure maximum privacy and security.
+- **Wallet Options**: EsiCoin will offer hot and cold wallets, with multi-signature support to secure users' funds.
+- **Regulatory Compliance**: The project will strictly adhere to AML, KYC, and other regulatory standards to ensure a safe environment for users.
 
 ## Roadmap
+EsiCoin's development roadmap focuses on key milestones:
+1. **Phase 1**: Initial launch of EsiCoin, including token distribution and platform setup.
+2. **Phase 2**: Expansion into Asia, particularly the Philippines, with the introduction of the stablecoin EsiPeso.
+3. **Phase 3**: Partnerships and integrations with exchanges, other blockchain networks, and platforms to enable cross-chain compatibility.
+4. **Future Phases**: Development of NFT, DeFi, and other decentralized applications (dApps) for further ecosystem growth.
 
-- **Core Structure**: Payment functionality, investment options, staking, and mining with fixed supply cap.
-- **Transaction Mechanics**: Transaction fee adjustments, speed, and internal transfer implementation.
-- **Privacy & Security**: Encryption, third-party audits, and user data protection.
-- **NFT & Stablecoin Integration**: Implementation of NFTs and stablecoin partnerships.
-- **Geographic Expansion**: Focus on Asia, especially in the Philippines, with community outreach and education.
-- **Post-Launch Features**: Ecosystem growth, governance, and DApp integration.
+## How to Get Started
+1. **Create a Wallet**: Set up your EsiCoin wallet on the platform (hot/cold wallets supported).
+2. **Buy EsiCoin**: Use the website or mobile app to purchase EsiCoin with fiat currency.
+3. **Make Transactions**: Start using EsiCoin for everyday transactions, or transfer funds securely across networks.
 
-## Getting Started
+## Conclusion
+EsiCoin aims to provide an accessible, secure, and efficient cryptocurrency solution that solves the challenges of slow transaction speeds, high fees, and security vulnerabilities. Through innovative blockchain technology, strong security measures, and comprehensive tokenomics, EsiCoin is set to revolutionize digital finance.
 
-To get started with EsiCoin, you will need to install the wallet, acquire EsiCoins, and start participating in staking or mining. Follow the instructions on the official documentation site for more details on setup and usage.
+For more details on the technical architecture, tokenomics, and ongoing development, please refer to the [Whitepaper](./WhitePaper.md).
 
-- **Wallet Setup**: [Link to Wallet Setup Guide]
-- **Staking Guide**: [Link to Staking Guide]
-- **Mining Guide**: [Link to Mining Guide]
+---
 
 ## Contributing
-
-We are currently looking for talented professionals and collaborators to help us realize the roadmap of EsiCoin. If you have expertise in blockchain development, cryptography, smart contracts, or other related fields, feel free to reach out!
-
-Please fork the repository, submit your pull requests, and report any issues you encounter.
+We welcome contributions from developers and crypto enthusiasts to help improve the EsiCoin ecosystem. Please refer to the [contributing guidelines](./CONTRIBUTING.md) for more information.
 
 ## License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Founder**: [James Dominic Liao]
-- **Email**: [jamesliao09@yahoo.com]
-- **Founder's Website**: [https://nico-liao0918.github.io/JamesResumeandPortfolioWebsite/index.html]
-
-## Acknowledgements
-
-We would like to thank all our partners, contributors, and the community who support the EsiCoin project. Special thanks to the blockchain and cryptocurrency communities for their continued innovation and progress.
-
+EsiCoin is released under the [Apache 2.0 License](./LICENSE).
